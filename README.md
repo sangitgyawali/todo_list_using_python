@@ -17,7 +17,7 @@ A beginner-friendly command-line interface (CLI) project built with Python that 
 
 ## 🚀 How to Run
 
-1. **Clone the repository:**
+**Clone the repository:**
 
 ```bash
 git clone https://github.com/sangitgyawali/todo_list_using_python.git
