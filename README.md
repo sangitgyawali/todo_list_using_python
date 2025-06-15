@@ -10,7 +10,7 @@ A beginner-friendly command-line interface (CLI) project built with Python that 
 - 📋 View all tasks  
 - ✅ Mark tasks as completed  
 - ❌ Delete specific tasks  
-- 🗑️ Clear all completed tasks  
+- 🗑️ Clear all completed tasks
 - 💾 Local storage using `tasks.json`
 
 ---
